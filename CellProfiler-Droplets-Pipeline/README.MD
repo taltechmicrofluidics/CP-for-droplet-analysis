@@ -1,0 +1,1 @@
+Here, we provide a pipeline for CellProfiler (version 3.1.8) to identify and measure the relative fluorescence of droplets in droplet microfluidic assays. We use the default pipeline (Images, Metadata, NamesAndTypes, and Groups) and combined it with the following modules: IdentifyPrimaryObjects, MeasureObjectIntensity, ExportToSpreadsheet, and ExportToDatabase.
