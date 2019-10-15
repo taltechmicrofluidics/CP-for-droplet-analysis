@@ -1,1 +1,0 @@
-We provide four images along the pipeline. These four images depicting droplets with viable fluorescent bacteria and empty droplets with tracer dye can be used by dragging the images into the Images module.
